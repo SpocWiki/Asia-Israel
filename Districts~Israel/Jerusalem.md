@@ -1,23 +1,23 @@
----
+﻿---
 location:
-  - 31.7
-  - 35
+- 31.7
+- 35
 type: geo-Region
 title: Jerusalem
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Jerusalem
+- Jerusalem
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -25,160 +25,160 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q1218
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Fez,80985]]"
-  - "[[/_Standards/WikiData/WD~Ayabe,694370]]"
-  - "[[/_Standards/WikiData/WD~Helwan,771345]]"
-  - "[[/_Standards/WikiData/WD~Cusco,5582862]]"
-  - "[[/_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[/_Standards/WikiData/WD~Prague,1085]]"
-  - "[[/_Standards/WikiData/WD~Bratislava,1780]]"
-  - "[[/_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
-  - "[[/_Standards/WikiData/WD~New York City,60]]"
-shares border with:
-  - "[[/_Standards/WikiData/WD~Ramallah,158119]]"
-  - "[[/_Standards/WikiData/WD~Ora,219200]]"
-  - "[[/_Standards/WikiData/WD~Abu Dis,246590]]"
-  - "[[/_Standards/WikiData/WD~Al-Ram,775087]]"
-  - "[[/_Standards/WikiData/WD~Beit Yala,803984]]"
-  - "[[/_Standards/WikiData/WD~Mevaseret Zion,1025294]]"
-  - "[[/_Standards/WikiData/WD~Even Sapir,1026815]]"
-  - "[[/_Standards/WikiData/WD~Ramat Rachel,2130036]]"
-  - "[[/_Standards/WikiData/WD~Beit Zayit,2776340]]"
-  - "[[/_Standards/WikiData/WD~Hizma,2907886]]"
-  - "[[/_Standards/WikiData/WD~Bethlehem,5776]]"
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Fez,80985]]'
+- '[[/_Standards/WikiData/WD~Ayabe,694370]]'
+- '[[/_Standards/WikiData/WD~Helwan,771345]]'
+- '[[/_Standards/WikiData/WD~Cusco,5582862]]'
+- '[[/_Standards/WikiData/WD~Tbilisi,994]]'
+- '[[/_Standards/WikiData/WD~Prague,1085]]'
+- '[[/_Standards/WikiData/WD~Bratislava,1780]]'
+- '[[/_Standards/WikiData/WD~Kyiv,1899]]'
+- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~New York City,60]]"
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Ramallah,158119]]'
+- '[[/_Standards/WikiData/WD~Ora,219200]]'
+- "[[/_Standards/WikiData/WD~Abu Dis,246590]]"
+- '[[/_Standards/WikiData/WD~Al-Ram,775087]]'
+- "[[/_Standards/WikiData/WD~Beit Yala,803984]]"
+- "[[/_Standards/WikiData/WD~Mevaseret Zion,1025294]]"
+- "[[/_Standards/WikiData/WD~Even Sapir,1026815]]"
+- "[[/_Standards/WikiData/WD~Ramat Rachel,2130036]]"
+- "[[/_Standards/WikiData/WD~Beit Zayit,2776340]]"
+- '[[/_Standards/WikiData/WD~Hizma,2907886]]'
+- '[[/_Standards/WikiData/WD~Bethlehem,5776]]'
 country:
-  - "[[/_Standards/WikiData/WD~Ayyubid dynasty,180114]]"
-  - "[[/_Standards/WikiData/WD~Mandatory Palestine,193714]]"
-  - "[[/_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[/_Standards/WikiData/WD~Mamluk Sultanate,282428]]"
-  - "[[/_Standards/WikiData/WD~Hasmonean dynasty,496922]]"
-  - "[[/_Standards/WikiData/WD~Occupied Enemy Territory Administration,7075820]]"
-  - "[[/_Standards/WikiData/WD~Israel,801]]"
-  - "[[/_Standards/WikiData/WD~Jordan,810]]"
-  - "[[/_Standards/WikiData/WD~Byzantine Empire,12544]]"
-  - "[[/_Standards/WikiData/WD~Ottoman Empire,12560]]"
-  - "[[/_Standards/WikiData/WD~Judah_Judaea,48685]]"
-  - "[[/_Standards/WikiData/WD~Kingdom of Jerusalem,55502]]"
-located in the administrative territorial entity:
-  - "[[/_Standards/WikiData/WD~Jerusalem District,192232]]"
-  - "[[/_Standards/WikiData/WD~Quds Governorate,941828]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[/_Standards/WikiData/WD~Israel,801]]"
-different from: "[[/_Standards/WikiData/WD~Jerusalem,229348]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~Pauly–Wissowa,1138524]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[/_Standards/WikiData/WD~Meyer’s Universum, Zweiter Band,126937278]]"
-member of:
-  - "[[/_Standards/WikiData/WD~Organization of World Heritage Cities,734958]]"
-  - "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-present in work:
-  - "[[/_Standards/WikiData/WD~The Discovery of Heaven,1212173]]"
-  - "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-partially coincident with: "[[/_Standards/WikiData/WD~Aelia Capitolina,1250874]]"
-named after: "[[/_Standards/WikiData/WD~Shalim,1819356]]"
-office held by head of government:
-  - "[[/_Standards/WikiData/WD~Mayor of Jerusalem,2276266]]"
-  - "[[/_Standards/WikiData/WD~alderman,3364526]]"
-history of topic: "[[/_Standards/WikiData/WD~history of Jerusalem,2765144]]"
-legislative body: "[[/_Standards/WikiData/WD~Municipality of Jerusalem,2974831]]"
-part of: "[[/_Standards/WikiData/WD~Greater Jerusalem,5600582]]"
-significant event:
-  - "[[/_Standards/WikiData/WD~Ascension of Jesus,5686605]]"
-  - "[[/_Standards/WikiData/WD~Pentecost,39864]]"
-  - "[[/_Standards/WikiData/WD~Crucifixion of Jesus,51636]]"
-topic's main template:
-  - "[[/_Standards/WikiData/WD~Template_Jerusalem sidebar,6306295]]"
-  - "[[/_Standards/WikiData/WD~Template_Jerusalem navbox,44577689]]"
-category for honorary citizens of entity: "[[/_Standards/WikiData/WD~Q7980963,7980963]]"
-topic's main Wikimedia portal: "[[/_Standards/WikiData/WD~Portal_Jerusalem,11379795]]"
-head of government: "[[/_Standards/WikiData/WD~Moshe Leon,12409594]]"
-permanent duplicated item:
-  - "[[/_Standards/WikiData/WD~Q21200806,21200806]]"
-  - "[[/_Standards/WikiData/WD~Q58235873,58235873]]"
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Panor%C3%A1mica%20de%20Jerusal%C3%A9n%20desde%20el%20Monte%20de%20los%20Olivos.jpg
-economy of topic: "[[/_Standards/WikiData/WD~economy of Jerusalem,106020408]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20-%20Jerusalem%202.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20-%20Stadt%20des%20Glaubens%20%28CC%20BY-SA%204.0%29.webm
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20infobox%20image.JPG
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20location%20map.svg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20location%20map.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ierusalim.wav
-BHCL UUID:
-  - 06096f65-c326-41e9-946f-fcdfe9c9d2a5
-  - 64f60979-2fa4-45dd-80b5-e30750daf4ce
-  - 5481e33b-6d5e-40da-b99b-a4721985e7ed
-Dewey Decimal Classification: 2--569442
-Krugosvet article: istoriya/IERUSALIM.html
-IPA transcription: jɛrɔzɔlʲima
-official name:
-  - أورشليم
-  - القدس
-  - ירושלים
+- "[[/_Standards/WikiData/WD~Ayyubid dynasty,180114]]"
+- "[[/_Standards/WikiData/WD~Mandatory Palestine,193714]]"
+- '[[/_Standards/WikiData/WD~Palestine,219060]]'
+- "[[/_Standards/WikiData/WD~Mamluk Sultanate,282428]]"
+- "[[/_Standards/WikiData/WD~Hasmonean dynasty,496922]]"
+- "[[/_Standards/WikiData/WD~Occupied Enemy Territory Administration,7075820]]"
+- '[[/_Standards/WikiData/WD~Israel,801]]'
+- '[[/_Standards/WikiData/WD~Jordan,810]]'
+- "[[/_Standards/WikiData/WD~Byzantine Empire,12544]]"
+- "[[/_Standards/WikiData/WD~Ottoman Empire,12560]]"
+- '[[/_Standards/WikiData/WD~Judah_Judaea,48685]]'
+- "[[/_Standards/WikiData/WD~Kingdom of Jerusalem,55502]]"
+located_in_the_administrative_territorial_entity:
+- "[[/_Standards/WikiData/WD~Jerusalem District,192232]]"
+- "[[/_Standards/WikiData/WD~Quds Governorate,941828]]"
+capital_of:
+- '[[/_Standards/WikiData/WD~Palestine,219060]]'
+- '[[/_Standards/WikiData/WD~Israel,801]]'
+different_from: '[[/_Standards/WikiData/WD~Jerusalem,229348]]'
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[/_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[/_Standards/WikiData/WD~Meyer’s Universum, Zweiter Band,126937278]]"
+member_of:
+- "[[/_Standards/WikiData/WD~Organization of World Heritage Cities,734958]]"
+- "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+present_in_work:
+- "[[/_Standards/WikiData/WD~The Discovery of Heaven,1212173]]"
+- "[[/_Standards/WikiData/WD~Civilization V,2385]]"
+partially_coincident_with: "[[/_Standards/WikiData/WD~Aelia Capitolina,1250874]]"
+named_after: '[[/_Standards/WikiData/WD~Shalim,1819356]]'
+office_held_by_head_of_government:
+- "[[/_Standards/WikiData/WD~Mayor of Jerusalem,2276266]]"
+- '[[/_Standards/WikiData/WD~alderman,3364526]]'
+history_of_topic: "[[/_Standards/WikiData/WD~history of Jerusalem,2765144]]"
+legislative_body: "[[/_Standards/WikiData/WD~Municipality of Jerusalem,2974831]]"
+part_of: "[[/_Standards/WikiData/WD~Greater Jerusalem,5600582]]"
+significant_event:
+- "[[/_Standards/WikiData/WD~Ascension of Jesus,5686605]]"
+- '[[/_Standards/WikiData/WD~Pentecost,39864]]'
+- "[[/_Standards/WikiData/WD~Crucifixion of Jesus,51636]]"
+topic_s_main_template:
+- "[[/_Standards/WikiData/WD~Template_Jerusalem sidebar,6306295]]"
+- "[[/_Standards/WikiData/WD~Template_Jerusalem navbox,44577689]]"
+category_for_honorary_citizens_of_entity: '[[/_Standards/WikiData/WD~Q7980963,7980963]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Jerusalem,11379795]]'
+head_of_government: "[[/_Standards/WikiData/WD~Moshe Leon,12409594]]"
+permanent_duplicated_item:
+- '[[/_Standards/WikiData/WD~Q21200806,21200806]]'
+- '[[/_Standards/WikiData/WD~Q58235873,58235873]]'
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Panor%C3%A1mica%20de%20Jerusal%C3%A9n%20desde%20el%20Monte%20de%20los%20Olivos.jpg"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Jerusalem,106020408]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20-%20Jerusalem%202.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20-%20Stadt%20des%20Glaubens%20%28CC%20BY-SA%204.0%29.webm"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20infobox%20image.JPG"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20location%20map.svg"
+detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20location%20map.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ierusalim.wav"
+BHCL_UUID:
+- 06096f65-c326-41e9-946f-fcdfe9c9d2a5
+- 64f60979-2fa4-45dd-80b5-e30750daf4ce
+- 5481e33b-6d5e-40da-b99b-a4721985e7ed
+Dewey_Decimal_Classification: 2--569442
+Krugosvet_article: istoriya/IERUSALIM.html
+IPA_transcription: jɛrɔzɔlʲima
+official_name:
+- أورشليم
+- القدس
+- ירושלים
 demonym:
-  - مقدسي
-  - Jerusalemite
-  - Jerusalemano
-  - Hierosolimitano
-  - Jerosolimitano
-  - ירושלמית
-  - Jeruzalemmer
-  - jerozolimczycy
-  - jerozolimczyk
-  - jerozolimka
-  - jerozolimki
-  - Gerosolimitani
-  - ירושלמי
-  - Hiérosolymitain
-ISNI: "0000000121586491"
-coordinate location: Point(35.225555555 31.778888888)
-Wolfram Language entity code: Entity["City", {"Jerusalem", "Jerusalem", "Israel"}]
-WOEID: "1968222"
-Commons category: Jerusalem
-Commons gallery: Jerusalem
-DPLA subject term: Jerusalem
+- مقدسي
+- Jerusalemite
+- Jerusalemano
+- Hierosolimitano
+- Jerosolimitano
+- ירושלמית
+- Jeruzalemmer
+- jerozolimczycy
+- jerozolimczyk
+- jerozolimka
+- jerozolimki
+- Gerosolimitani
+- ירושלמי
+- Hiérosolymitain
+ISNI: 0000000121586491
+coordinate_location: "Point(35.225555555 31.778888888)"
+Wolfram_Language_entity_code: "Entity[\"City\", {\"Jerusalem\", \"Jerusalem\", \"Israel\"}]"
+WOEID: 1968222
+Commons_category: Jerusalem
+Commons_gallery: Jerusalem
+DPLA_subject_term: Jerusalem
 subreddit: Jerusalem
-U.S. National Archives Identifier: "10044349"
-OmegaWiki Defined Meaning: "460506"
-Danbooru tag: jerusalem
-IMDb keyword: jerusalem
-GitHub topic: jerusalem
-native label:
-  - ירושלים
-  - القدس
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Jerusalem.svg
-official website: https://www.jerusalem.muni.il/
-postal code: 91000–91999
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG
-Library of Congress Classification: BP190.5.P3
-inception: -4000-01-01T00:00:00Z
-instance of: "[[/_Standards/WikiData/WD~city,515]]"
-located in time zone:
-  - "[[/_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[/_Standards/WikiData/WD~UTC+03_00,6760]]"
-language used:
-  - "[[/_Standards/WikiData/WD~Hebrew,9288]]"
-  - "[[/_Standards/WikiData/WD~Arabic,13955]]"
-continent: "[[/_Standards/WikiData/WD~Asia,48]]"
+U_S_National_Archives_Identifier: 10044349
+OmegaWiki_Defined_Meaning: 460506
+Danbooru_tag: jerusalem
+IMDb_keyword: jerusalem
+GitHub_topic: jerusalem
+native_label:
+- ירושלים
+- القدس
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Jerusalem.svg"
+official_website: "https://www.jerusalem.muni.il/"
+postal_code: 91000–91999
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG"
+Library_of_Congress_Classification: BP190.5.P3
+inception: "-4000-01-01T00:00:00Z"
+instance_of: '[[/_Standards/WikiData/WD~city,515]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[/_Standards/WikiData/WD~UTC+03_00,6760]]'
+language_used:
+- '[[/_Standards/WikiData/WD~Hebrew,9288]]'
+- '[[/_Standards/WikiData/WD~Arabic,13955]]'
+continent: '[[/_Standards/WikiData/WD~Asia,48]]'
 flag: "[[/_Standards/WikiData/WD~flag of Jerusalem,44936]]"
-local dialing code: "2"
-elevation above sea level: 754
-social media followers: 2181
+local_dialing_code: 2
+elevation_above_sea_level: 754
+social_media_followers: 2181
 area: 125.42
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jerusalem.svg
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Chords%20Bridge.JPG
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jerusalem.svg"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Chords%20Bridge.JPG"
 population: 936425
 ---
 
