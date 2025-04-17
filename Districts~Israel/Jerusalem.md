@@ -34,82 +34,82 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Prague,1085]]'
 - '[[/_Standards/WikiData/WD~Bratislava,1780]]'
 - '[[/_Standards/WikiData/WD~Kyiv,1899]]'
-- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
-- "[[/_Standards/WikiData/WD~New York City,60]]"
+- "[[/_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~New_York_City,60]]"
 shares_border_with:
 - '[[/_Standards/WikiData/WD~Ramallah,158119]]'
 - '[[/_Standards/WikiData/WD~Ora,219200]]'
-- "[[/_Standards/WikiData/WD~Abu Dis,246590]]"
+- "[[/_Standards/WikiData/WD~Abu_Dis,246590]]"
 - '[[/_Standards/WikiData/WD~Al-Ram,775087]]'
-- "[[/_Standards/WikiData/WD~Beit Yala,803984]]"
-- "[[/_Standards/WikiData/WD~Mevaseret Zion,1025294]]"
-- "[[/_Standards/WikiData/WD~Even Sapir,1026815]]"
-- "[[/_Standards/WikiData/WD~Ramat Rachel,2130036]]"
-- "[[/_Standards/WikiData/WD~Beit Zayit,2776340]]"
+- "[[/_Standards/WikiData/WD~Beit_Yala,803984]]"
+- "[[/_Standards/WikiData/WD~Mevaseret_Zion,1025294]]"
+- "[[/_Standards/WikiData/WD~Even_Sapir,1026815]]"
+- "[[/_Standards/WikiData/WD~Ramat_Rachel,2130036]]"
+- "[[/_Standards/WikiData/WD~Beit_Zayit,2776340]]"
 - '[[/_Standards/WikiData/WD~Hizma,2907886]]'
 - '[[/_Standards/WikiData/WD~Bethlehem,5776]]'
 country:
-- "[[/_Standards/WikiData/WD~Ayyubid dynasty,180114]]"
-- "[[/_Standards/WikiData/WD~Mandatory Palestine,193714]]"
+- "[[/_Standards/WikiData/WD~Ayyubid_dynasty,180114]]"
+- "[[/_Standards/WikiData/WD~Mandatory_Palestine,193714]]"
 - '[[/_Standards/WikiData/WD~Palestine,219060]]'
-- "[[/_Standards/WikiData/WD~Mamluk Sultanate,282428]]"
-- "[[/_Standards/WikiData/WD~Hasmonean dynasty,496922]]"
-- "[[/_Standards/WikiData/WD~Occupied Enemy Territory Administration,7075820]]"
+- "[[/_Standards/WikiData/WD~Mamluk_Sultanate,282428]]"
+- "[[/_Standards/WikiData/WD~Hasmonean_dynasty,496922]]"
+- "[[/_Standards/WikiData/WD~Occupied_Enemy_Territory_Administration,7075820]]"
 - '[[/_Standards/WikiData/WD~Israel,801]]'
 - '[[/_Standards/WikiData/WD~Jordan,810]]'
-- "[[/_Standards/WikiData/WD~Byzantine Empire,12544]]"
-- "[[/_Standards/WikiData/WD~Ottoman Empire,12560]]"
+- "[[/_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+- "[[/_Standards/WikiData/WD~Ottoman_Empire,12560]]"
 - '[[/_Standards/WikiData/WD~Judah_Judaea,48685]]'
-- "[[/_Standards/WikiData/WD~Kingdom of Jerusalem,55502]]"
+- "[[/_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]"
 located_in_the_administrative_territorial_entity:
-- "[[/_Standards/WikiData/WD~Jerusalem District,192232]]"
-- "[[/_Standards/WikiData/WD~Quds Governorate,941828]]"
+- "[[/_Standards/WikiData/WD~Jerusalem_District,192232]]"
+- "[[/_Standards/WikiData/WD~Quds_Governorate,941828]]"
 capital_of:
 - '[[/_Standards/WikiData/WD~Palestine,219060]]'
 - '[[/_Standards/WikiData/WD~Israel,801]]'
 different_from: '[[/_Standards/WikiData/WD~Jerusalem,229348]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - '[[/_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[/_Standards/WikiData/WD~Meyer’s Universum, Zweiter Band,126937278]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Organization of World Heritage Cities,734958]]"
-- "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+- "[[/_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+- "[[/_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
 present_in_work:
-- "[[/_Standards/WikiData/WD~The Discovery of Heaven,1212173]]"
-- "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-partially_coincident_with: "[[/_Standards/WikiData/WD~Aelia Capitolina,1250874]]"
+- "[[/_Standards/WikiData/WD~The_Discovery_of_Heaven,1212173]]"
+- "[[/_Standards/WikiData/WD~Civilization_V,2385]]"
+partially_coincident_with: "[[/_Standards/WikiData/WD~Aelia_Capitolina,1250874]]"
 named_after: '[[/_Standards/WikiData/WD~Shalim,1819356]]'
 office_held_by_head_of_government:
-- "[[/_Standards/WikiData/WD~Mayor of Jerusalem,2276266]]"
+- "[[/_Standards/WikiData/WD~Mayor_of_Jerusalem,2276266]]"
 - '[[/_Standards/WikiData/WD~alderman,3364526]]'
-history_of_topic: "[[/_Standards/WikiData/WD~history of Jerusalem,2765144]]"
-legislative_body: "[[/_Standards/WikiData/WD~Municipality of Jerusalem,2974831]]"
-part_of: "[[/_Standards/WikiData/WD~Greater Jerusalem,5600582]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Jerusalem,2765144]]"
+legislative_body: "[[/_Standards/WikiData/WD~Municipality_of_Jerusalem,2974831]]"
+part_of: "[[/_Standards/WikiData/WD~Greater_Jerusalem,5600582]]"
 significant_event:
-- "[[/_Standards/WikiData/WD~Ascension of Jesus,5686605]]"
+- "[[/_Standards/WikiData/WD~Ascension_of_Jesus,5686605]]"
 - '[[/_Standards/WikiData/WD~Pentecost,39864]]'
-- "[[/_Standards/WikiData/WD~Crucifixion of Jesus,51636]]"
+- "[[/_Standards/WikiData/WD~Crucifixion_of_Jesus,51636]]"
 topic_s_main_template:
-- "[[/_Standards/WikiData/WD~Template_Jerusalem sidebar,6306295]]"
-- "[[/_Standards/WikiData/WD~Template_Jerusalem navbox,44577689]]"
+- "[[/_Standards/WikiData/WD~Template_Jerusalem_sidebar,6306295]]"
+- "[[/_Standards/WikiData/WD~Template_Jerusalem_navbox,44577689]]"
 category_for_honorary_citizens_of_entity: '[[/_Standards/WikiData/WD~Q7980963,7980963]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Jerusalem,11379795]]'
-head_of_government: "[[/_Standards/WikiData/WD~Moshe Leon,12409594]]"
+head_of_government: "[[/_Standards/WikiData/WD~Moshe_Leon,12409594]]"
 permanent_duplicated_item:
 - '[[/_Standards/WikiData/WD~Q21200806,21200806]]'
 - '[[/_Standards/WikiData/WD~Q58235873,58235873]]'
 panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Panor%C3%A1mica%20de%20Jerusal%C3%A9n%20desde%20el%20Monte%20de%20los%20Olivos.jpg"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Jerusalem,106020408]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Jerusalem,106020408]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20-%20Jerusalem%202.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20-%20Stadt%20des%20Glaubens%20%28CC%20BY-SA%204.0%29.webm"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20infobox%20image.JPG"
@@ -172,7 +172,7 @@ language_used:
 - '[[/_Standards/WikiData/WD~Hebrew,9288]]'
 - '[[/_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
-flag: "[[/_Standards/WikiData/WD~flag of Jerusalem,44936]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Jerusalem,44936]]"
 local_dialing_code: 2
 elevation_above_sea_level: 754
 social_media_followers: 2181
