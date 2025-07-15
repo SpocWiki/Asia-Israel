@@ -40,21 +40,18 @@ markerFolder: ./West_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank|West_Bank]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.public|West_Bank.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.internal|West_Bank.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.protect|West_Bank.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.private|West_Bank.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.personal|West_Bank.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.secret|West_Bank.secret]] 
 
+### #is_/same_as :: [West_Bank](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.md) 
 
-```leaflet
-id: Israel
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./West_Bank/
-markerFolder: ./West_Bank/
-```
+### #is_/same_as :: [West_Bank.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.public.md) 
+
+### #is_/same_as :: [West_Bank.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.internal.md) 
+
+### #is_/same_as :: [West_Bank.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.protect.md) 
+
+### #is_/same_as :: [West_Bank.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.private.md) 
+
+### #is_/same_as :: [West_Bank.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.personal.md) 
+
+### #is_/same_as :: [West_Bank.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.secret.md)
 

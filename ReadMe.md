@@ -134,10 +134,4 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Israel|Israel]] 
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Israel.internal|Israel.internal]] 
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Israel.protect|Israel.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Israel.private|Israel.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Israel.personal|Israel.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Israel.secret|Israel.secret]] 
+

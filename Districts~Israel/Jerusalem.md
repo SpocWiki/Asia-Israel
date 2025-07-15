@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 31.7
 - 35
@@ -211,11 +211,18 @@ markerFolder: ./Jerusalem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem|Jerusalem]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.public|Jerusalem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.internal|Jerusalem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.protect|Jerusalem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.private|Jerusalem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.personal|Jerusalem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.secret|Jerusalem.secret]] 
+
+### #is_/same_as :: [Jerusalem](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.md) 
+
+### #is_/same_as :: [Jerusalem.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.public.md) 
+
+### #is_/same_as :: [Jerusalem.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.internal.md) 
+
+### #is_/same_as :: [Jerusalem.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.protect.md) 
+
+### #is_/same_as :: [Jerusalem.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.private.md) 
+
+### #is_/same_as :: [Jerusalem.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.personal.md) 
+
+### #is_/same_as :: [Jerusalem.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.secret.md)
 

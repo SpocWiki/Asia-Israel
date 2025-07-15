@@ -40,11 +40,18 @@ markerFolder: ./Haifa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa|Haifa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.public|Haifa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.internal|Haifa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.protect|Haifa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.private|Haifa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.personal|Haifa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.secret|Haifa.secret]] 
+
+### #is_/same_as :: [Haifa](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.md) 
+
+### #is_/same_as :: [Haifa.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.public.md) 
+
+### #is_/same_as :: [Haifa.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.internal.md) 
+
+### #is_/same_as :: [Haifa.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.protect.md) 
+
+### #is_/same_as :: [Haifa.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.private.md) 
+
+### #is_/same_as :: [Haifa.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.personal.md) 
+
+### #is_/same_as :: [Haifa.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa.secret.md)
 

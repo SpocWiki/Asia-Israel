@@ -32,9 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../Haifa|Haifa]]  
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/City/Haifa.internal|Haifa.internal]]  
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/City/Haifa.protect|Haifa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/City/Haifa.private|Haifa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/City/Haifa.personal|Haifa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/City/Haifa.secret|Haifa.secret]] 
+
+### #is_/same_as :: [Haifa](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.md) 
+
+### #is_/same_as :: [Haifa.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.public.md) 
+
+### #is_/same_as :: [Haifa.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.internal.md) 
+
+### #is_/same_as :: [Haifa.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.protect.md) 
+
+### #is_/same_as :: [Haifa.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.private.md) 
+
+### #is_/same_as :: [Haifa.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.personal.md) 
+
+### #is_/same_as :: [Haifa.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Haifa/Haifa.secret.md)
+

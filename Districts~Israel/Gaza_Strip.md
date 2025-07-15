@@ -40,11 +40,18 @@ markerFolder: ./Gaza_Strip/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip|Gaza_Strip]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.public|Gaza_Strip.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.internal|Gaza_Strip.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.protect|Gaza_Strip.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.private|Gaza_Strip.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.personal|Gaza_Strip.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.secret|Gaza_Strip.secret]] 
+
+### #is_/same_as :: [Gaza_Strip](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.md) 
+
+### #is_/same_as :: [Gaza_Strip.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.public.md) 
+
+### #is_/same_as :: [Gaza_Strip.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.internal.md) 
+
+### #is_/same_as :: [Gaza_Strip.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.protect.md) 
+
+### #is_/same_as :: [Gaza_Strip.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.private.md) 
+
+### #is_/same_as :: [Gaza_Strip.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.personal.md) 
+
+### #is_/same_as :: [Gaza_Strip.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip.secret.md)
 
