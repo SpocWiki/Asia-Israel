@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Tel_Aviv]] 
+
 [geo-lon::34.77] 
 [geo-lat::32.08] 
 [name::Tel Aviv] 
@@ -21,11 +24,17 @@ Country :: [[../../../../Israel]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Tel_Aviv,33935]]
+
+## #has_/map 
 
 ```leaflet
 id: Tel Aviv
 coordinates: [[Tel_Aviv]] 
 markerFile: [[Tel_Aviv]] 
+geojsonFolder: ./Tel_Aviv/
+markerFolder: ./Tel_Aviv/
+zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
 ```
