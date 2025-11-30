@@ -1,16 +1,19 @@
 ---
-location: [32.08,34.77] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 32.08
+  - 34.77
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34796
 isDeleted: false
 confidential: public
-
+aliases:
+has_id_wikidata: Q33935
 ---
 
 # [[Tel_Aviv]] 
@@ -24,7 +27,7 @@ Country :: [[../../../../Israel]]
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tel_Aviv,33935]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Tel_Aviv-Yafo,33935|WD~Tel_Aviv-Yafo,33935]] 
 
 ## #has_/map 
 
