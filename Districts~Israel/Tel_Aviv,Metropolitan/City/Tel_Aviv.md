@@ -45,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tel_Aviv](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv|Tel_Aviv]] 
 
-### #is_/same_as :: [Tel_Aviv.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.public|Tel_Aviv.public]] 
 
-### #is_/same_as :: [Tel_Aviv.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.internal|Tel_Aviv.internal]] 
 
-### #is_/same_as :: [Tel_Aviv.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.protect|Tel_Aviv.protect]] 
 
-### #is_/same_as :: [Tel_Aviv.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.private|Tel_Aviv.private]] 
 
-### #is_/same_as :: [Tel_Aviv.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.personal|Tel_Aviv.personal]] 
 
-### #is_/same_as :: [Tel_Aviv.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv/City/Tel_Aviv.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan/City/Tel_Aviv.secret|Tel_Aviv.secret]] 
 

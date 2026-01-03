@@ -65,19 +65,20 @@ defaultZoom: 11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gush%20Dan) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tel_Aviv](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan|Tel_Aviv,Metropolitan]] 
 
-### #is_/same_as :: [Tel_Aviv.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.public|Tel_Aviv,Metropolitan.public]] 
 
-### #is_/same_as :: [Tel_Aviv.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.internal|Tel_Aviv,Metropolitan.internal]] 
 
-### #is_/same_as :: [Tel_Aviv.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.protect|Tel_Aviv,Metropolitan.protect]] 
 
-### #is_/same_as :: [Tel_Aviv.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.private|Tel_Aviv,Metropolitan.private]] 
 
-### #is_/same_as :: [Tel_Aviv.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.personal|Tel_Aviv,Metropolitan.personal]] 
 
-### #is_/same_as :: [Tel_Aviv.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Tel_Aviv,Metropolitan.secret|Tel_Aviv,Metropolitan.secret]] 
 

@@ -202,19 +202,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem)  
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerusalem](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City|Jerusalem,City]] 
 
-### #is_/same_as :: [Jerusalem.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.public|Jerusalem,City.public]] 
 
-### #is_/same_as :: [Jerusalem.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.internal|Jerusalem,City.internal]] 
 
-### #is_/same_as :: [Jerusalem.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.protect|Jerusalem,City.protect]] 
 
-### #is_/same_as :: [Jerusalem.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.private|Jerusalem,City.private]] 
 
-### #is_/same_as :: [Jerusalem.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.personal|Jerusalem,City.personal]] 
 
-### #is_/same_as :: [Jerusalem.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem/City/Jerusalem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District/Jerusalem,City.secret|Jerusalem,City.secret]] 
 

@@ -176,3 +176,21 @@ ISNI: "0000000101373309"
 > David is also richly represented in post-biblical Jewish written and oral tradition and referenced in the New Testament. Early Christians interpreted the life of Jesus of Nazareth in light of references to the Hebrew Messiah and to David; Jesus is described as being directly descended from David in the Gospel of Matthew and the Gospel of Luke. In the Quran and hadith, David is described as an Israelite king as well as a prophet of Allah. The biblical David has inspired many interpretations in art and literature over the centuries.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/David)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/King David|King David]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/King David.public|King David.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/King David.internal|King David.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/King David.protect|King David.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/King David.private|King David.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/King David.personal|King David.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/King David.secret|King David.secret]] 
+

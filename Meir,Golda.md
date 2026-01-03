@@ -131,3 +131,20 @@ birth_name: גולדה מאבוביץ'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Golda%20Meir) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda|Meir,Golda]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.public|Meir,Golda.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.internal|Meir,Golda.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.protect|Meir,Golda.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.private|Meir,Golda.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.personal|Meir,Golda.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Meir,Golda.secret|Meir,Golda.secret]] 
+

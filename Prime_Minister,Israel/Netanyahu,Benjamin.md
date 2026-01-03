@@ -54,3 +54,20 @@ has_id_wikidata: Q43723
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Netanyahu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin|Netanyahu,Benjamin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.public|Netanyahu,Benjamin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.internal|Netanyahu,Benjamin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.protect|Netanyahu,Benjamin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.private|Netanyahu,Benjamin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.personal|Netanyahu,Benjamin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Prime_Minister,Israel/Netanyahu,Benjamin.secret|Netanyahu,Benjamin.secret]] 
+

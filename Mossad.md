@@ -60,3 +60,20 @@ official_name: המוסד למודיעין ולתפקידים מיוחדים
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mossad) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Mossad|Mossad]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Mossad.public|Mossad.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Mossad.internal|Mossad.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Mossad.protect|Mossad.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Mossad.private|Mossad.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Mossad.personal|Mossad.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Mossad.secret|Mossad.secret]] 
+

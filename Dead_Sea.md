@@ -122,3 +122,21 @@ Libris_URI: khwzxd935jkhww4
 > The Dead Sea is receding at a swift rate; its surface area today is 605 km2 (234 sq mi), having been 1,050 km2 (410 sq mi) in 1930. Multiple canal and pipeline proposals, such as the scrapped Red Sea–Dead Sea Water Conveyance project, have been made to reduce its recession.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dead%20Sea)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea|Dead_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.public|Dead_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.internal|Dead_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.protect|Dead_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.private|Dead_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.personal|Dead_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Dead_Sea.secret|Dead_Sea.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./West_Bank/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Bank](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank|West_Bank]] 
 
-### #is_/same_as :: [West_Bank.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.public|West_Bank.public]] 
 
-### #is_/same_as :: [West_Bank.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.internal|West_Bank.internal]] 
 
-### #is_/same_as :: [West_Bank.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.protect|West_Bank.protect]] 
 
-### #is_/same_as :: [West_Bank.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.private|West_Bank.private]] 
 
-### #is_/same_as :: [West_Bank.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.personal|West_Bank.personal]] 
 
-### #is_/same_as :: [West_Bank.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/West_Bank.secret|West_Bank.secret]] 
 

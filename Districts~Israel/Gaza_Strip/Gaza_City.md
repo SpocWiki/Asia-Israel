@@ -90,3 +90,20 @@ inception: -1500-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaza%20City)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City|Gaza_City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.public|Gaza_City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.internal|Gaza_City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.protect|Gaza_City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.private|Gaza_City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.personal|Gaza_City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Gaza_Strip/Gaza_City.secret|Gaza_City.secret]] 
+

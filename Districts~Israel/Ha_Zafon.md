@@ -40,17 +40,17 @@ markerFolder: ./HaZafon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ha_Zafon](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon|Ha_Zafon]] 
 
-### #is_/same_as :: [Ha_Zafon.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.public|Ha_Zafon.public]] 
 
-### #is_/same_as :: [Ha_Zafon.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.internal|Ha_Zafon.internal]] 
 
-### #is_/same_as :: [Ha_Zafon.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.protect|Ha_Zafon.protect]] 
 
-### #is_/same_as :: [Ha_Zafon.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.private|Ha_Zafon.private]] 
 
-### #is_/same_as :: [Ha_Zafon.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.personal|Ha_Zafon.personal]] 
 
-### #is_/same_as :: [Ha_Zafon.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Ha_Zafon.secret|Ha_Zafon.secret]] 
 

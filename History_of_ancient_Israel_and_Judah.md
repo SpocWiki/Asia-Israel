@@ -62,3 +62,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20reconstructed%20is
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20ancient%20Israel%20and%20Judah) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah|History_of_ancient_Israel_and_Judah]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.public|History_of_ancient_Israel_and_Judah.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.internal|History_of_ancient_Israel_and_Judah.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.protect|History_of_ancient_Israel_and_Judah.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.private|History_of_ancient_Israel_and_Judah.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.personal|History_of_ancient_Israel_and_Judah.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/History_of_ancient_Israel_and_Judah.secret|History_of_ancient_Israel_and_Judah.secret]] 
+

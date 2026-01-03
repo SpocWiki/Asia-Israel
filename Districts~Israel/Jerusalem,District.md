@@ -51,19 +51,20 @@ markerFolder: ./Jerusalem,District/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem%20District)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerusalem](/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District|Jerusalem,District]] 
 
-### #is_/same_as :: [Jerusalem.public](/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.public|Jerusalem,District.public]] 
 
-### #is_/same_as :: [Jerusalem.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.internal|Jerusalem,District.internal]] 
 
-### #is_/same_as :: [Jerusalem.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.protect|Jerusalem,District.protect]] 
 
-### #is_/same_as :: [Jerusalem.private](/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.private|Jerusalem,District.private]] 
 
-### #is_/same_as :: [Jerusalem.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.personal|Jerusalem,District.personal]] 
 
-### #is_/same_as :: [Jerusalem.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Districts~Israel/Jerusalem,District.secret|Jerusalem,District.secret]] 
 

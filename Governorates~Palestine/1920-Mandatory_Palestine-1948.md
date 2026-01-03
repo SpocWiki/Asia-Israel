@@ -66,3 +66,20 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Mandat
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandatory%20Palestine) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948|1920-Mandatory_Palestine-1948]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.public|1920-Mandatory_Palestine-1948.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.internal|1920-Mandatory_Palestine-1948.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.protect|1920-Mandatory_Palestine-1948.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.private|1920-Mandatory_Palestine-1948.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.personal|1920-Mandatory_Palestine-1948.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/Governorates~Palestine/1920-Mandatory_Palestine-1948.secret|1920-Mandatory_Palestine-1948.secret]] 
+
