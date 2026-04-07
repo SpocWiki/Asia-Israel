@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::32.83] 
 [name::Haifa] 
 State ::  
-Country :: [[../../../Israel]]  
+Country :: [[../../../Israel|Israel]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

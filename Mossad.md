@@ -5,25 +5,25 @@ aliases:
   - ha-Mosád le-Modiʿín u-le-Tafkidím Meyuḥadím
 has_id_wikidata: Q34216
 founded_by:
-  - "[[_Standards/WikiData/WD~Isser_Harel,350744]]"
-  - "[[_Standards/WikiData/WD~David_Ben_Gurion,37610]]"
-present_in_work: "[[_Standards/WikiData/WD~Sword_of_Gideon,573934]]"
+  - "[[_Standards/WikiData/WD~Isser_Harel,350744|WD~Isser_Harel,350744]]"
+  - "[[_Standards/WikiData/WD~David_Ben_Gurion,37610|WD~David_Ben_Gurion,37610]]"
+present_in_work: "[[_Standards/WikiData/WD~Sword_of_Gideon,573934|WD~Sword_of_Gideon,573934]]"
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Ramat_HaSharon,845866]]"
-  - "[[_Standards/WikiData/WD~Hadar_Dafna_Building,7185623]]"
-  - "[[_Standards/WikiData/WD~Tel_Aviv,33935]]"
+  - "[[_Standards/WikiData/WD~Ramat_HaSharon,845866|WD~Ramat_HaSharon,845866]]"
+  - "[[_Standards/WikiData/WD~Hadar_Dafna_Building,7185623|WD~Hadar_Dafna_Building,7185623]]"
+  - "[[_Standards/WikiData/WD~Tel_Aviv,33935|WD~Tel_Aviv,33935]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~covert_operation,1546073]]"
-  - "[[_Standards/WikiData/WD~intelligence_assessment,4488757]]"
-part_of: "[[_Standards/WikiData/WD~Israeli_Intelligence_Community,2656328]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Mossad_operations,4435528]]"
-replaces: "[[_Standards/WikiData/WD~Q12046206,12046206]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_of_the_Mossad,26464634]]"
-chairperson: "[[_Standards/WikiData/WD~David_Barnea,106962786]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Israel,801]]"
-country: "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~covert_operation,1546073|WD~covert_operation,1546073]]"
+  - "[[_Standards/WikiData/WD~intelligence_assessment,4488757|WD~intelligence_assessment,4488757]]"
+part_of: "[[_Standards/WikiData/WD~Israeli_Intelligence_Community,2656328|WD~Israeli_Intelligence_Community,2656328]]"
+has_list: "[[_Standards/WikiData/WD~list_of_Mossad_operations,4435528|WD~list_of_Mossad_operations,4435528]]"
+replaces: "[[_Standards/WikiData/WD~Q12046206,12046206|WD~Q12046206,12046206]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_of_the_Mossad,26464634|WD~Director_of_the_Mossad,26464634]]"
+chairperson: "[[_Standards/WikiData/WD~David_Barnea,106962786|WD~David_Barnea,106962786]]"
+applies_to_jurisdiction: "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+country: "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
 employees: 3000
-instance_of: "[[_Standards/WikiData/WD~intelligence_agency,47913]]"
+instance_of: "[[_Standards/WikiData/WD~intelligence_agency,47913|WD~intelligence_agency,47913]]"
 social_media_followers: 13053
 video: http://commons.wikimedia.org/wiki/Special:FilePath/1961-04-13%20Tale%20Of%20Century%20-%20Eichmann%20Tried%20For%20War%20Crimes.ogv
 inception: 1949-12-13T00:00:00Z

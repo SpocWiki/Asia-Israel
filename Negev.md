@@ -6,18 +6,18 @@ aliases:
   - النقب
   - an-Naqab
 has_id_wikidata: Q162843
-part_of: "[[_Standards/WikiData/WD~Land_of_Israel,155321]]"
-different_from: "[[_Standards/WikiData/WD~IWI_Negev,1078239]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Ramon,1571275]]"
-described_by_source: "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+part_of: "[[_Standards/WikiData/WD~Land_of_Israel,155321|WD~Land_of_Israel,155321]]"
+different_from: "[[_Standards/WikiData/WD~IWI_Negev,1078239|WD~IWI_Negev,1078239]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Ramon,1571275|WD~Mount_Ramon,1571275]]"
+described_by_source: "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 coordinate_location: Point(34.916666666 30.5)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Israel,801]]"
-country: "[[_Standards/WikiData/WD~Israel,801]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+country: "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~desert,8514]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+  - "[[_Standards/WikiData/WD~desert,8514|WD~desert,8514]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]"
 area: 13000
-capital: "[[_Standards/WikiData/WD~Beersheba,41843]]"
+capital: "[[_Standards/WikiData/WD~Beersheba,41843|WD~Beersheba,41843]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Israel-2013-Aerial%2000-Negev-Makhtesh%20Ramon%20adjusted.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Negev-2005-1.JPG
 Commons_category: Negev

@@ -22,7 +22,7 @@ has_id_wikidata: Q33935
 [geo-lat::32.08] 
 [name::Tel Aviv] 
 State ::  
-Country :: [[../../../../Israel]]  
+Country :: [[../../../../Israel|Israel]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

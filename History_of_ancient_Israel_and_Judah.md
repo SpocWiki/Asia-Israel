@@ -1,25 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q193748
-location: "[[_Standards/WikiData/WD~Land_of_Israel,155321]]"
+location: "[[_Standards/WikiData/WD~Land_of_Israel,155321|WD~Land_of_Israel,155321]]"
 country:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Israel,230407]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Israel,230407|WD~Kingdom_of_Israel,230407]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Judah,48685|WD~Kingdom_of_Judah,48685]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~ancient_Near_East,269678]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Jews_and_Judaism_in_the_Land_of_Israel,726702]]"
-part_of: "[[_Standards/WikiData/WD~Jewish_history,961603]]"
+  - "[[_Standards/WikiData/WD~ancient_Near_East,269678|WD~ancient_Near_East,269678]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Jews_and_Judaism_in_the_Land_of_Israel,726702|WD~history_of_the_Jews_and_Judaism_in_the_Land_of_Israel,726702]]"
+part_of: "[[_Standards/WikiData/WD~Jewish_history,961603|WD~Jewish_history,961603]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-different_from: "[[_Standards/WikiData/WD~history_of_the_Jews_in_late_Antiquity,2737688]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+different_from: "[[_Standards/WikiData/WD~history_of_the_Jews_in_late_Antiquity,2737688|WD~history_of_the_Jews_in_late_Antiquity,2737688]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
-  - "[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-facet_of: "[[_Standards/WikiData/WD~Israelites,51669]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
+  - "[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685|WD~history_of_a_geographic_region,63313685]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+facet_of: "[[_Standards/WikiData/WD~Israelites,51669|WD~Israelites,51669]]"
 Commons_category: Ancient Israel and Judah
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20reconstructed%20israelite%20house%2C%20Monarchy%20period3.jpg
 ---

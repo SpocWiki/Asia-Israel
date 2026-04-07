@@ -120,7 +120,7 @@ markerFolder: .///
 [Area-Land::20620] 
 Continent :: [[Asia]]  
 [VehicleCode::IL] 
-Capital :: [[Israel/Counties/Jerusalem]]  
+Capital :: [[Israel/Counties/Jerusalem|Jerusalem]]  
 
 ![[Israel/Emblem_of_Israel.svg|350]] 
 
