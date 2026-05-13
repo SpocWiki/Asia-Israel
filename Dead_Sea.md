@@ -121,7 +121,7 @@ Libris_URI: khwzxd935jkhww4
 >
 > The Dead Sea is receding at a swift rate; its surface area today is 605 km2 (234 sq mi), having been 1,050 km2 (410 sq mi) in 1930. Multiple canal and pipeline proposals, such as the scrapped Red Sea–Dead Sea Water Conveyance project, have been made to reduce its recession.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dead%20Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dead%20Sea) 
 
 
 ## Confidential Links & Embeds: 

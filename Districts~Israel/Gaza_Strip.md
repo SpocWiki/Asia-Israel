@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gaza_Strip/
 markerFolder: ./Gaza_Strip/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

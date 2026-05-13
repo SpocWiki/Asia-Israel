@@ -88,7 +88,7 @@ inception: -1500-01-01T00:00:00Z
 >
 > The primary economic activities of Gaza City are small-scale industries and agriculture. However, the blockade and recurring conflicts have put the economy under severe pressure. The majority of Gaza City's Palestinian inhabitants are Muslim, although there is also a Christian minority. Gaza City has a very young population, with roughly 75% under the age of 25. As of September 2025, many residents have fled or been evacuated to the Southern Gaza Strip, or killed as a result of Israel's actions in the north. Therefore, previous recorded or estimated population numbers have become outdated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gaza%20City)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gaza%20City) 
 
 
 ## Confidential Links & Embeds: 

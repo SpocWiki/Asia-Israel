@@ -49,7 +49,7 @@ markerFolder: ./Jerusalem,District/
 >
 > Most Arabs in the Jerusalem District are Palestinians, eligible to apply for citizenship under Israeli law, but either decline to apply or are unsuccessful in doing so. Arab citizens of Israel constitute a significant minority in the district, living in Abu Ghosh, Beit Safafa and East Jerusalem, where Arab professionals have settled since the late 1970s, mainly for the provision of legal and other services to the local population. The non-Jewish population is 95.2% Muslim, 3.5% Christian with the others unclassified by religion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem%20District)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem%20District) 
 
 
 ## Confidential Links & Embeds: 

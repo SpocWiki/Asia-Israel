@@ -200,7 +200,7 @@ maxZoom: 18
 >
 > At present, the status of Jerusalem remains one of the core issues in the Israeli–Palestinian conflict. Under the 1947 United Nations Partition Plan for Palestine, Jerusalem was to be "established as a corpus separatum under a special international regime" administered by the United Nations. During the 1948 Arab–Israeli War, West Jerusalem was among the areas incorporated into Israel, while East Jerusalem, including the Old City, was occupied and annexed by Jordan. Israel occupied East Jerusalem from Jordan during the 1967 Six-Day War and subsequently annexed it into the city's municipality, together with additional surrounding territory. One of Israel's Basic Laws, the 1980 Jerusalem Law, refers to Jerusalem as the country's undivided capital. All branches of the Israeli government are located in Jerusalem, including the Knesset (Israel's parliament), the residences of the prime minister and president, and the Supreme Court. The international community rejects the annexation as illegal and regards East Jerusalem as Palestinian territory occupied by Israel.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Jerusalem) 
 
 
 ## Confidential Links & Embeds: 
