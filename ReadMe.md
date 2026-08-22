@@ -1223,17 +1223,17 @@ darkMode: false
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel|Israel]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel.public|Israel.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel.internal|Israel.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel.protect|Israel.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel.private|Israel.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel.personal|Israel.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel.secret|Israel.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel/ReadMe.secret|ReadMe.secret]] 
 
